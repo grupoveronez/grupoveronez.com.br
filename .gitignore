@@ -1,5 +1,12 @@
+# Root files
 .next
 node_modules
+
+
 # Environment files
 .env
 .env.*
+
+# IDES files
+.vscode
+.idea
