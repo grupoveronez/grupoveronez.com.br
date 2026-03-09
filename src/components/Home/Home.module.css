@@ -172,7 +172,9 @@
   border-radius: 8px;
   font-weight: bold;
   text-decoration: none;
-  transition: transform 0.2s, background-color 0.2s;
+  transition:
+    transform 0.2s,
+    background-color 0.2s;
 }
 
 .appointmentButton:hover {
